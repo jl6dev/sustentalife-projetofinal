@@ -25,3 +25,55 @@ Funcionalidades
 •	Consumo de API (ex: clima ou reciclagem) com Retrofit
 •	Interface responsiva e acessível, com suporte para leitor de tela
 •	Fluxos assíncronos usando Coroutines
+
+Arquitetura e Tecnologias Utilizadas
+
+Kotlin
+
+Jetpack Compose
+
+Arquitetura MVVM
+
+Navigation Component
+
+StateFlow / LiveData
+
+SharedFlow / SingleLiveEvent
+
+Coroutines + viewModelScope
+
+Retrofit para consumo de API
+
+Material Design + Acessibilidade
+
+📁 Estrutura Geral do Projeto
+
+app
+
+data (API, models, repository)
+
+ui (screens, components, theme)
+
+viewmodel
+
+navigation
+
+Organizado seguindo boas práticas de arquitetura e separação de responsabilidades.
+
+Como Executar o Projeto
+
+Acesse o repositório no GitHub.
+
+Faça o download ou clone via terminal:
+git clone https://github.com/seurepositorio/SustentaLife.git
+
+Abra o projeto no Android Studio (versão Flamingo ou superior).
+
+Aguarde o Gradle sincronizar.
+
+Execute em um dispositivo físico ou emulador (Android 8.0 ou superior).
+
+ APK
+
+O arquivo APK final do projeto está disponível na pasta release.
+Também pode ser encontrado na aba Releases do repositório GitHub.
