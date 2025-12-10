@@ -65,7 +65,7 @@ Como Executar o Projeto
 Acesse o repositório no GitHub.
 
 Faça o download ou clone via terminal:
-git clone https://github.com/seurepositorio/SustentaLife.git
+git clone https://github.com/jl6dev/sustentalife-projetofinal
 
 Abra o projeto no Android Studio (versão Flamingo ou superior).
 
