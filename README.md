@@ -77,3 +77,23 @@ Execute em um dispositivo físico ou emulador (Android 8.0 ou superior).
 
 O arquivo APK final do projeto está disponível na pasta release.
 Também pode ser encontrado na aba Releases do repositório GitHub.
+
+ Prints e Demonstração
+
+(Adicionar futuramente)
+
+Sugestões que podem aparecer:
+• Tela inicial
+• Tela de dicas
+• Lista de desafios
+• Tela de progresso
+• GIF mostrando o uso
+
+⸻
+
+🔀 Organização no GitHub
+• Cada nova funcionalidade foi desenvolvida em uma branch própria.
+• Pull Requests foram revisados antes do merge.
+• Commits possuem descrição clara do que foi alterado.
+• O repositório segue uma estrutura limpa e padronizada.
+
