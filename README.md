@@ -80,9 +80,14 @@ Também pode ser encontrado na aba Releases do repositório GitHub.
 
  Prints e Demonstração
 
-(Adicionar futuramente)
+![_5534f47f-acdf-4be9-8087-1e1b9c0e74f5](https://github.com/user-attachments/assets/5c787cf5-ef13-4889-9b97-493e7223339d)
 
-Sugestões que podem aparecer:
+![_e7f94c5b-6f91-4a9e-a9c7-8f4b7fd75b3b](https://github.com/user-attachments/assets/f1b7817b-1e25-4271-bc9b-044e76bacc6b)
+![_d25636db-412d-4792-9703-9f3a57ac42f8](https://github.com/user-attachments/assets/b53698f5-ce30-4372-9cd5-175f30ab49bc)
+![_d079d07d-0097-49de-9b9f-1f4aa1299282](https://github.com/user-attachments/assets/45d08bb1-5734-459c-b022-69591b4c08b1)
+
+Sugestões que podem aparecer:![_0bcca00d-fae9-41e0-8703-57824f794fff](https://github.com/user-attachments/assets/b751e3ff-de09-4d6b-a077-2413b833f062)
+
 • Tela inicial
 • Tela de dicas
 • Lista de desafios
