@@ -97,3 +97,33 @@ Sugestões que podem aparecer:
 • Commits possuem descrição clara do que foi alterado.
 • O repositório segue uma estrutura limpa e padronizada.
 
+Desafios e Aprendizados
+
+Durante o desenvolvimento do projeto, enfrentamos desafios como:
+• Organização da arquitetura MVVM
+• Consumo de API com Retrofit
+• Acessibilidade e responsividade no Compose
+• Controle de estado com StateFlow
+• Tratamento de eventos únicos sem recomposição desnecessária
+
+Esses desafios contribuíram para o aprendizado e evolução técnica da equipe.
+
+⸻
+
+📚 Melhorias Futuras
+• Notificações e lembretes diários
+• Sistema de ranking e gamificação
+• Integração com banco local (Room)
+• Tela de login e sincronização em nuvem
+• Tema claro/escuro
+
+⸻
+
+🧾 Licença
+
+Projeto desenvolvido para fins educacionais — IFPE Campus Palmares.
+
+⸻
+
+🌿 Pequenas ações transformam o mundo. Um hábito sustentável de cada vez.
+
